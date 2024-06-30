@@ -1,10 +1,9 @@
 /*
- * 
- *  MONEY COUNTER PROJECT BY MAKEITHACKIN
- *  USED WITH RBC-1003 MONEY COUNTER
- * 
- */
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$       MONEY COUNTER PROJECT BY MAKEITHACKIN         $$$$
+$$$$       USED WITH RBC-1003 MONEY COUNTER              $$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+*/
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
